@@ -22,7 +22,7 @@
     /* position: absolute; */
     top: 0;
     left: 0;
-    background: #313A3D;
+    background: #E0BBE4;
     width: 100%;
     /* padding: 18px 0; */
     font-size: 1.45em;
@@ -42,7 +42,7 @@
     /* top: 12px;
     left: 7%; */
     font-size: 2.5em;
-    text-shadow: 1px 2px 0 #cd6302;
+    text-shadow: 1px 2px 0 #E0BBE4;
     -webkit-transition: all 333ms ease-in-out;
     -moz-transition: all 333ms ease-in-out;
     -o-transition: all 333ms ease-in-out;
@@ -86,12 +86,12 @@
   form .field textarea:focus + label,
   form .field textarea.focused + label {
     width: 18%;
-    background: #FD9638;
+    background: #E0BBE4;
     color: #313A3D;
   }
   form .field input[type="text"].focused + label,
   form .field textarea.focused + label {
-    color: #FD9638;
+    color: #E0BBE4;
   }
   form .field:hover label {
     width: 18%;
@@ -665,7 +665,7 @@ form .field label {
   position: absolute;
   top: 0;
   left: 0;
-  background: #313A3D;
+  background: #C0E7F6;
   width: 100%;
   padding: 18px 0;
   font-size: 1.45em;
@@ -685,7 +685,7 @@ form .field label + span {
   top: 12px;
   left: 7%;
   font-size: 2.5em;
-  text-shadow: 1px 2px 0 #cd6302;
+  text-shadow: 1px 2px 0 #D291BC;
   -webkit-transition: all 333ms ease-in-out;
   -moz-transition: all 333ms ease-in-out;
   -o-transition: all 333ms ease-in-out;
@@ -729,12 +729,12 @@ form .field input[type="text"]:focus + label, form .field input[type="text"].foc
 form .field textarea:focus + label,
 form .field textarea.focused + label {
   width: 18%;
-  background: #FD9638;
+  background: #D291BC;
   color: #313A3D;
 }
 form .field input[type="text"].focused + label,
 form .field textarea.focused + label {
-  color: #FD9638;
+  color: #D291BC;
 }
 form .field:hover label {
   width: 18%;
@@ -742,7 +742,7 @@ form .field:hover label {
   color: white;
 }
 form input[type="submit"] {
-  background: #FD9638;
+  background: #D291BC;
   color: white;
   -webkit-appearance: none;
   border: none;
@@ -761,9 +761,9 @@ form input[type="submit"] {
 }
 form input[type="submit"]:hover {
   background: #313A3D;
-  color: #FD9638;
+  color: #D291BC;
 }
 form input[type="submit"]:focus {
   outline: none;
-  background: #cd6302;
+  background: #D291BC;
 }
